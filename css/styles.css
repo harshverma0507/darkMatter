@@ -1,0 +1,99 @@
+body,html{
+  height: 100%
+  margin:0;
+  padding: 0;
+  background: black;
+
+}
+body{
+  background-color: black;
+  color: #fff;
+  text-align: center;
+
+  /* background:url(../images/picbg.jpg)  */
+  background-size: 100%;
+}
+#title{
+    /* background-image :url(../images/picbg.jpg); */
+    padding: 0 0 10%;
+}
+.hero{
+  position: relative;
+  height: 600px;
+  overflow: hidden;
+  background: url(../images/picbg.jpg) no-repeat center;
+  background-size: : cover;
+
+}
+
+h1{
+  font-size: 3.5rem;
+  line-height: 1.2;
+  padding: 3% 10% 3%;
+}
+#content{
+  padding:0 7%;
+  background-color: black;
+
+}
+#fun-facts{
+  padding: 7% 15%;
+}
+.fas{
+  color:#fff;;
+  margin-bottom: 1rem;
+}
+.fas:hover{
+  /* background-color:#ef8172; */
+  margin-bottom: 1rem;
+
+}
+.card{
+  background-color: black;
+  border: 1px solid #fff;
+}
+.readarticle{
+  text-align: left;
+  padding: 0 5% 5%;
+}
+.downpic{
+  height: 500px;
+  width: 100%;
+  /* width: 500px; */
+  /* transform: rotate(45deg); */
+}
+#quotes{
+  /* padding: 7% 15%; */
+}
+.carousel-item{
+  padding: 7% 15%;
+}
+.testimonial-image{
+  width: 100%;
+    height: auto;
+}
+#footer{
+  /* height: 300px;
+  width: 100%; */
+  background-color: black;
+  padding: 7% 15%;
+  text-align: left;
+}
+.linebr{
+  border-color: white;
+  width: 75%;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 10px;
+}
+.social-icon{
+  margin: 10px 5px;
+}
+.comp{
+  /* position: absolute; */
+  right: 25%;
+  padding-bottom: 15px;
+  /* bottom: 60px; */
+
+
+}
